@@ -16,5 +16,7 @@ Plano para incrementação de coordenadas e representação visual de funções 
  - [ ] Resolução de função (100% funcional)
  - [x] Tema Escuro
  - [x] Representação Visual da Função
+ 
+ ##
 
 ![plot](./assets/readme/Capturar.png)
