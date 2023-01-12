@@ -4,12 +4,6 @@
 
 Plano para incrementação de coordenadas e representação visual de funções de primeiro grau(versão de teste)
 
- - #### Como Instalar:
- 
-      [Python3](https://www.python.org/downloads/)
-
-      pip install customtkinter
-
 - #### Funcionalidades:
 
  - [x] incrementação de coordenadas x e y
